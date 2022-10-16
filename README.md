@@ -57,7 +57,6 @@ Import LiquidCrystal to the folder where Arduino is installed. By default `C:\Pr
 #### Step 4. Clone this repository to your local computer.
 ```
 git clone https://github.com/SpaceLacuna/arduino-rickroll.git
-
 ```
 # Running
 #### Step 1. Assemble the scheme.
