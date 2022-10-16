@@ -1,5 +1,7 @@
 # Arduino Rickroll
 This project plays a Piezo buzzer rendition of the song "Never gonna give you up" by Rick Astley and displays the lyrics on an LCD. This project is based on the Arduino platform. It is a **pet project** to get experience with **Arduino**.
+## Requirements
+* Arduino 1.8.19
 ## Scheme
 This project uses the following components:
 * Arduino Nano board
@@ -50,7 +52,6 @@ Here's what the assembled system might look like.
 
 ## Installation
 #### Step 1. Install [Arduino IDE](https://www.arduino.cc/en/software).
-Requires Arduino v.1.8.19.
 #### Step 2. Download [LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal) library for working with LCD.
 Import LiquidCrystal to the folder where Arduino is installed. By default `C:\Program Files (x86)\Arduino\libraries`.
 #### Step 3. In the tools tab, select the Arduino Nano board and ATmega328P (Old Bootloader) processor.
