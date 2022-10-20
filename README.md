@@ -52,14 +52,19 @@ Here's what the assembled system might look like.
 
 ## Installation
 **Step 1**. Install [Arduino IDE](https://www.arduino.cc/en/software).
+
 **Step 2**. Download [LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal) library for working with LCD.
 Import LiquidCrystal to the folder where Arduino is installed. By default `C:\Program Files (x86)\Arduino\libraries`.
+
 **Step 3**. In the tools tab, select the Arduino Nano board and ATmega328P (Old Bootloader) processor.
+
 **Step 4**. Clone this repository to your local computer.
 ```
 git clone https://github.com/SpaceLacuna/arduino-rickroll.git
 ```
 # Running
 **Step 1**. Assemble the scheme.
+
 **Step 2**. Connect the assembled scheme to the computer.
+
 **Step 3**. Verify and Upload sketch.
